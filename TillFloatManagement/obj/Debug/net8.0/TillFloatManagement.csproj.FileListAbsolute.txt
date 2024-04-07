@@ -1,0 +1,14 @@
+/Users/masana/TillFloatManagement/bin/Debug/net8.0/TillFloatManagement
+/Users/masana/TillFloatManagement/bin/Debug/net8.0/TillFloatManagement.deps.json
+/Users/masana/TillFloatManagement/bin/Debug/net8.0/TillFloatManagement.runtimeconfig.json
+/Users/masana/TillFloatManagement/bin/Debug/net8.0/TillFloatManagement.dll
+/Users/masana/TillFloatManagement/bin/Debug/net8.0/TillFloatManagement.pdb
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/TillFloatManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/TillFloatManagement.AssemblyInfoInputs.cache
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/TillFloatManagement.AssemblyInfo.cs
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/TillFloatManagement.csproj.CoreCompileInputs.cache
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/TillFloatManagement.dll
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/refint/TillFloatManagement.dll
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/TillFloatManagement.pdb
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/TillFloatManagement.genruntimeconfig.cache
+/Users/masana/TillFloatManagement/obj/Debug/net8.0/ref/TillFloatManagement.dll
